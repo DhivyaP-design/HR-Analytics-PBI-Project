@@ -19,6 +19,7 @@ The goal is to identify trends and factors contributing to employee turnover, su
     **-Inserting New Conditional Columns:** Creating new columns based on conditions to enrich the dataset.
     
 3. **Visualization and Dashboard Creation** After preparing the data, I focused on creating the visualizations. I designed interactive charts and graphs, such as bar charts, pie charts, and line charts, to highlight key metrics like attrition rates, employee demographics, and job roles. I also integrated slicers for easy filtering and drill-throughs for more detailed insights.
+![image](https://github.com/user-attachments/assets/b9b569f9-2522-4e90-bf37-8ec81bedd335)
 
 
 
